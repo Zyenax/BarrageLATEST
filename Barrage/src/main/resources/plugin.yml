@@ -1,0 +1,10 @@
+name: Barrage
+version: 1.0
+main: net.barrage.main.Barrage
+author: x_Anthony
+#depend: [MoonCore]
+commands:
+  setrank:
+    description: Set a users rank to a specified value!
+  msg:
+    description: Message a specified user!
